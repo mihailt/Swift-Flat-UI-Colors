@@ -55,10 +55,6 @@ extension UIColor {
         return UIColor(r:241, g:196, b:15)
     }
 
-    class func orangeColor()->UIColor {
-        return UIColor(r:243, g:156, b:18)
-    }
-
     class func carrotColor()->UIColor {
         return UIColor(r:230, g:126, b:34)
     }
